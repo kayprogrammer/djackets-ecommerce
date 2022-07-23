@@ -12,6 +12,7 @@ This is a simple ecommerce web application built with Django rest framework and 
 ### How to Test Locally...
 
 * Download this repository
+
 In the backend root directory. Run:
 * `pip install -r requirements.txt` to install all python dependencies
 * `python manage.py runserver` to start the local server.
